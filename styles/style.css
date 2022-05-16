@@ -688,13 +688,10 @@
 .copyrights {
     text-align: center;
     background-color: #333333;
-    height: 150px;
-}
-
-.copyright-image li {
-    color: white;
-    padding: 60px 10px 15px;
-    font-size: 20px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .copyrights p {
